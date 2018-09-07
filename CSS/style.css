@@ -1,0 +1,28 @@
+html{
+  background-color: navy;
+}
+
+body{
+  background-color: #ffffff;
+  width:100%
+  margin-left: auto;
+  margin-right: auto;
+
+  font-family: "Arial", sans-serif;
+}
+
+.nav{
+  background-color: purple;
+  padding-top:50px;
+  padding-bottom: 50px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+a:visited{
+  color: hotpink;
+}
+
+a:hover {
+color: green;
+}
